@@ -188,6 +188,8 @@ a {
   background: var(--color-background);
   color: #fff;
   cursor: pointer;
+  border: 2px solid var(--color-background);
+  border-radius: 5px;
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -202,7 +204,7 @@ a {
 .button-back-to-top:focus,
 .button-load-more:hover,
 .button-load-more:focus {
-  background: var(--background-color);
+  background: teal;
 }
 
 .button-back-to-top-show {
