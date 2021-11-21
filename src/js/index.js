@@ -110,6 +110,6 @@ function stopLoadMore() {
 function initStartData() {
   currentPage = 1;
   isFirstPage = true;
-  document.querySelector('.limit-reached').remove();
+  document.querySelector('.limit-reached')?.remove();
   galleryEl.innerHTML = '';
 }
