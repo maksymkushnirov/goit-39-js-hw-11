@@ -6,7 +6,7 @@
   "homepage": "https://maksymkushnirov.github.io/goit-39-js-hw-11",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/index.html --public-url /goit-39-js-hw-11/"
+    "build": "parcel build src/*.html --public-url /goit-39-js-hw-11/"
   },
   "repository": {
     "type": "git",

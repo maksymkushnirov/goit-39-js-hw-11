@@ -203,7 +203,6 @@ a {
 .button-load-more:hover,
 .button-load-more:focus {
   background: var(--color-accent);
-  border: var(--color-accent);
 }
 
 .button-return-to-top-show {
