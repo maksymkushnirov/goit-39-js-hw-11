@@ -1,3 +1,6 @@
+# goit-39-js-hw-11
+CRUD + Синтаксис async/await
+
 # Parcel boilerplate
 
 ## Скрытые файлы
